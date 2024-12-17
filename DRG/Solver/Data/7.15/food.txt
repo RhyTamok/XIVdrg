@@ -1,0 +1,4 @@
+Moqueca	0	0	0.1	79	0.1	132	0	0
+Roast Chicken	0.1	132	0	0	0.1	79	0	0
+Chicken Pasta	0.1	79	0	0	0.1	132	0	0
+Churrasco	0	0	0.1	79	0.1	132	0	0

@@ -1,0 +1,437 @@
+---------- GCD: 2.5 ----------
+Food: Moqueca
+Wd  : 146
+Str : 4885 | 5129
+Dh  : 1816
+Crit: 3120
+Det : 2466
+Sks : 420
+Weapon     Raid   Direct Hit Rate  Direct Hit Rate 
+Head       Tomes  Direct Hit Rate  Determination   
+Body       Raid   Determination    Determination   
+Hands      Tomes  Direct Hit Rate  Determination   
+Legs       CAR    Determination    Determination   
+Feet       Raid   Direct Hit Rate  Determination   
+Earrings   Raid   Critical Hit     Critical Hit    
+Necklace   Tomes  Determination    Determination   
+Bracelets  Raid   Determination    Determination   
+Ring       Raid   Direct Hit Rate  Critical Hit    
+Ring       Tomes  Critical Hit     Critical Hit    
+---------- GCD: 2.49 ----------
+Food: Moqueca
+Wd  : 146
+Str : 4885 | 5129
+Dh  : 1998
+Crit: 3103
+Det : 2247
+Sks : 474
+Weapon     Raid   Direct Hit Rate  Direct Hit Rate 
+Head       Tomes  Direct Hit Rate  Determination   
+Body       Raid   Determination    Determination   
+Hands      CAR    Critical Hit     Determination   
+Legs       CAR    Determination    Determination   
+Feet       Raid   Direct Hit Rate  Determination   
+Earrings   Raid   Critical Hit     Critical Hit    
+Necklace   Tomes  Direct Hit Rate  Determination   
+Bracelets  Raid   Determination    Determination   
+Ring       Raid   Critical Hit     Skill Speed     
+Ring       Tomes  Critical Hit     Critical Hit    
+---------- GCD: 2.48 ----------
+Food: Moqueca
+Wd  : 146
+Str : 4885 | 5129
+Dh  : 1944
+Crit: 3103
+Det : 2247
+Sks : 528
+Weapon     Raid   Direct Hit Rate  Direct Hit Rate 
+Head       Tomes  Direct Hit Rate  Determination   
+Body       Raid   Determination    Determination   
+Hands      CAR    Critical Hit     Determination   
+Legs       CAR    Determination    Determination   
+Feet       Raid   Direct Hit Rate  Determination   
+Earrings   Raid   Critical Hit     Critical Hit    
+Necklace   Tomes  Determination    Determination   
+Bracelets  Raid   Determination    Skill Speed     
+Ring       Raid   Critical Hit     Skill Speed     
+Ring       Tomes  Critical Hit     Critical Hit    
+---------- GCD: 2.47 ----------
+Food: Moqueca
+Wd  : 146
+Str : 4885 | 5129
+Dh  : 1836
+Crit: 3103
+Det : 2247
+Sks : 636
+Weapon     Raid   Direct Hit Rate  Direct Hit Rate 
+Head       Tomes  Determination    Determination   
+Body       Raid   Determination    Determination   
+Hands      CAR    Critical Hit     Determination   
+Legs       CAR    Determination    Determination   
+Feet       Raid   Skill Speed      Skill Speed     
+Earrings   Raid   Critical Hit     Critical Hit    
+Necklace   Tomes  Determination    Determination   
+Bracelets  Raid   Determination    Skill Speed     
+Ring       Raid   Critical Hit     Skill Speed     
+Ring       Tomes  Critical Hit     Critical Hit    
+---------- GCD: 2.46 ----------
+Food: Moqueca
+Wd  : 146
+Str : 4885 | 5129
+Dh  : 1762
+Crit: 3103
+Det : 2247
+Sks : 710
+Weapon     Raid   Direct Hit Rate  Direct Hit Rate 
+Head       Tomes  Direct Hit Rate  Determination   
+Body       Raid   Determination    Determination   
+Hands      Raid   Direct Hit Rate  Critical Hit    
+Legs       CAR    Determination    Determination   
+Feet       Raid   Direct Hit Rate  Determination   
+Earrings   Raid   Critical Hit     Critical Hit    
+Necklace   Tomes  Determination    Determination   
+Bracelets  Raid   Determination    Determination   
+Ring       Raid   Critical Hit     Skill Speed     
+Ring       Tomes  Critical Hit     Critical Hit    
+---------- GCD: 2.45 ----------
+Food: Moqueca
+Wd  : 146
+Str : 4885 | 5129
+Dh  : 1684
+Crit: 3103
+Det : 2249
+Sks : 786
+Weapon     Raid   Direct Hit Rate  Direct Hit Rate 
+Head       Tomes  Direct Hit Rate  Determination   
+Body       Raid   Determination    Determination   
+Hands      Raid   Direct Hit Rate  Critical Hit    
+Legs       CAR    Determination    Determination   
+Feet       Raid   Direct Hit Rate  Determination   
+Earrings   Tomes  Critical Hit     Critical Hit    
+Necklace   Tomes  Direct Hit Rate  Determination   
+Bracelets  Raid   Determination    Determination   
+Ring       Raid   Direct Hit Rate  Critical Hit    
+Ring       Tomes  Critical Hit     Critical Hit    
+---------- GCD: 2.44 ----------
+Food: Moqueca
+Wd  : 146
+Str : 4885 | 5129
+Dh  : 1600
+Crit: 3103
+Det : 2247
+Sks : 872
+Weapon     Raid   Direct Hit Rate  Direct Hit Rate 
+Head       Tomes  Determination    Determination   
+Body       Raid   Determination    Determination   
+Hands      Raid   Critical Hit     Determination   
+Legs       CAR    Determination    Determination   
+Feet       Raid   Skill Speed      Skill Speed     
+Earrings   Raid   Critical Hit     Critical Hit    
+Necklace   Tomes  Determination    Determination   
+Bracelets  Raid   Determination    Skill Speed     
+Ring       Raid   Critical Hit     Skill Speed     
+Ring       Tomes  Critical Hit     Critical Hit    
+---------- GCD: 2.43 ----------
+Food: Moqueca
+Wd  : 146
+Str : 4885 | 5129
+Dh  : 1887
+Crit: 3103
+Det : 1872
+Sks : 960
+Weapon     Raid   Direct Hit Rate  Direct Hit Rate 
+Head       CAR    Direct Hit Rate  Direct Hit Rate 
+Body       Raid   Direct Hit Rate  Direct Hit Rate 
+Hands      CAR    Critical Hit     Skill Speed     
+Legs       CAR    Skill Speed      Skill Speed     
+Feet       Raid   Skill Speed      Skill Speed     
+Earrings   Raid   Critical Hit     Critical Hit    
+Necklace   Tomes  Skill Speed      Skill Speed     
+Bracelets  Raid   Skill Speed      Skill Speed     
+Ring       Raid   Critical Hit     Skill Speed     
+Ring       Tomes  Critical Hit     Critical Hit    
+---------- GCD: 2.42 ----------
+Food: Moqueca
+Wd  : 146
+Str : 4885 | 5129
+Dh  : 1522
+Crit: 3103
+Det : 2149
+Sks : 1048
+Weapon     Raid   Direct Hit Rate  Direct Hit Rate 
+Head       Tomes  Determination    Determination   
+Body       CAR    Determination    Determination   
+Hands      Raid   Critical Hit     Determination   
+Legs       CAR    Determination    Determination   
+Feet       Raid   Direct Hit Rate  Determination   
+Earrings   Tomes  Critical Hit     Critical Hit    
+Necklace   Tomes  Determination    Determination   
+Bracelets  Raid   Determination    Determination   
+Ring       Raid   Direct Hit Rate  Critical Hit    
+Ring       Tomes  Critical Hit     Critical Hit    
+---------- GCD: 2.41 ----------
+Food: Moqueca
+Wd  : 146
+Str : 4885 | 5129
+Dh  : 1654
+Crit: 3103
+Det : 1931
+Sks : 1134
+Weapon     Raid   Direct Hit Rate  Direct Hit Rate 
+Head       Tomes  Direct Hit Rate  Determination   
+Body       CAR    Skill Speed      Skill Speed     
+Hands      Raid   Critical Hit     Determination   
+Legs       CAR    Determination    Determination   
+Feet       Raid   Determination    Skill Speed     
+Earrings   Raid   Critical Hit     Critical Hit    
+Necklace   Tomes  Determination    Determination   
+Bracelets  Raid   Determination    Determination   
+Ring       Raid   Critical Hit     Skill Speed     
+Ring       Tomes  Critical Hit     Critical Hit    
+---------- GCD: 2.4 ----------
+Food: Roast Chicken
+Wd  : 146
+Str : 4885 | 5129
+Dh  : 2690
+Crit: 1108
+Det : 2804
+Sks : 1220
+Weapon     Raid   Direct Hit Rate  Determination   
+Head       Raid   Determination    Skill Speed     
+Body       Tomes  Direct Hit Rate  Direct Hit Rate 
+Hands      Raid   Determination    Determination   
+Legs       Raid   Determination    Determination   
+Feet       CAR    Skill Speed      Skill Speed     
+Earrings   Raid   Determination    Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Direct Hit Rate  Determination   
+Ring       Raid   Direct Hit Rate  Direct Hit Rate 
+Ring       Tomes  Determination    Skill Speed     
+---------- GCD: 2.39 ----------
+Food: Chicken Pasta
+Wd  : 146
+Str : 4885 | 5129
+Dh  : 2630
+Crit: 1108
+Det : 2785
+Sks : 1299
+Weapon     Raid   Determination    Determination   
+Head       Raid   Determination    Skill Speed     
+Body       Tomes  Direct Hit Rate  Direct Hit Rate 
+Hands      Raid   Determination    Determination   
+Legs       Raid   Determination    Determination   
+Feet       Tomes  Determination    Determination   
+Earrings   Tomes  Direct Hit Rate  Direct Hit Rate 
+Necklace   Raid   Direct Hit Rate  Skill Speed     
+Bracelets  Tomes  Direct Hit Rate  Determination   
+Ring       Raid   Direct Hit Rate  Direct Hit Rate 
+Ring       Tomes  Determination    Skill Speed     
+---------- GCD: 2.38 ----------
+Food: Roast Chicken
+Wd  : 146
+Str : 4885 | 5129
+Dh  : 2524
+Crit: 1108
+Det : 2806
+Sks : 1384
+Weapon     Raid   Determination    Determination   
+Head       Raid   Skill Speed      Skill Speed     
+Body       Tomes  Skill Speed      Skill Speed     
+Hands      CAR    Determination    Determination   
+Legs       Raid   Determination    Determination   
+Feet       CAR    Skill Speed      Skill Speed     
+Earrings   Tomes  Direct Hit Rate  Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Direct Hit Rate  Determination   
+Ring       Raid   Skill Speed      Skill Speed     
+Ring       Tomes  Determination    Skill Speed     
+---------- GCD: 2.37 ----------
+Food: Roast Chicken
+Wd  : 146
+Str : 4885 | 5129
+Dh  : 2656
+Crit: 1108
+Det : 2588
+Sks : 1470
+Weapon     Raid   Determination    Determination   
+Head       Raid   Skill Speed      Skill Speed     
+Body       Tomes  Skill Speed      Skill Speed     
+Hands      CAR    Determination    Determination   
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       CAR    Skill Speed      Skill Speed     
+Earrings   Raid   Skill Speed      Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Direct Hit Rate  Determination   
+Ring       Raid   Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+---------- GCD: 2.36 ----------
+Food: Roast Chicken
+Wd  : 146
+Str : 4885 | 5129
+Dh  : 2342
+Crit: 1108
+Det : 2806
+Sks : 1566
+Weapon     Raid   Direct Hit Rate  Determination   
+Head       Raid   Determination    Skill Speed     
+Body       Tomes  Skill Speed      Skill Speed     
+Hands      Raid   Determination    Determination   
+Legs       Raid   Determination    Determination   
+Feet       CAR    Skill Speed      Skill Speed     
+Earrings   Tomes  Direct Hit Rate  Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Direct Hit Rate  Determination   
+Ring       Raid   Skill Speed      Skill Speed     
+Ring       Tomes  Determination    Skill Speed     
+---------- GCD: 2.35 ----------
+Food: Roast Chicken
+Wd  : 146
+Str : 4885 | 5129
+Dh  : 2474
+Crit: 1108
+Det : 2588
+Sks : 1652
+Weapon     Raid   Direct Hit Rate  Determination   
+Head       Raid   Skill Speed      Skill Speed     
+Body       Tomes  Skill Speed      Skill Speed     
+Hands      Raid   Determination    Determination   
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       CAR    Skill Speed      Skill Speed     
+Earrings   Raid   Skill Speed      Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Direct Hit Rate  Determination   
+Ring       Raid   Skill Speed      Skill Speed     
+Ring       Tomes  Determination    Skill Speed     
+---------- GCD: 2.34 ----------
+Food: Chicken Pasta
+Wd  : 146
+Str : 4885 | 5129
+Dh  : 2559
+Crit: 1108
+Det : 2427
+Sks : 1728
+Weapon     Raid   Direct Hit Rate  Direct Hit Rate 
+Head       Raid   Skill Speed      Skill Speed     
+Body       Tomes  Skill Speed      Skill Speed     
+Hands      Raid   Direct Hit Rate  Direct Hit Rate 
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       CAR    Skill Speed      Skill Speed     
+Earrings   Tomes  Direct Hit Rate  Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Direct Hit Rate  Direct Hit Rate 
+Ring       Raid   Direct Hit Rate  Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+---------- GCD: 2.33 ----------
+Food: Roast Chicken
+Wd  : 146
+Str : 4885 | 5129
+Dh  : 2474
+Crit: 1108
+Det : 2426
+Sks : 1814
+Weapon     Raid   Skill Speed      Skill Speed     
+Head       Raid   Skill Speed      Skill Speed     
+Body       Tomes  Skill Speed      Skill Speed     
+Hands      Raid   Direct Hit Rate  Determination   
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       CAR    Skill Speed      Skill Speed     
+Earrings   Raid   Skill Speed      Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Direct Hit Rate  Determination   
+Ring       Raid   Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+---------- GCD: 2.32 ----------
+Food: Chicken Pasta
+Wd  : 146
+Str : 4885 | 5129
+Dh  : 2438
+Crit: 1108
+Det : 2351
+Sks : 1925
+Weapon     Raid   Skill Speed      Skill Speed     
+Head       Raid   Skill Speed      Skill Speed     
+Body       Tomes  Skill Speed      Skill Speed     
+Hands      Raid   Determination    Determination   
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Tomes  Determination    Skill Speed     
+Earrings   Raid   Skill Speed      Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Direct Hit Rate  Determination   
+Ring       Raid   Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+---------- GCD: 2.31 ----------
+Food: Chicken Pasta
+Wd  : 146
+Str : 4885 | 5129
+Dh  : 2306
+Crit: 1108
+Det : 2407
+Sks : 2001
+Weapon     Raid   Skill Speed      Skill Speed     
+Head       Raid   Skill Speed      Skill Speed     
+Body       Tomes  Skill Speed      Skill Speed     
+Hands      Raid   Determination    Determination   
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Tomes  Determination    Skill Speed     
+Earrings   Tomes  Direct Hit Rate  Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Direct Hit Rate  Determination   
+Ring       Raid   Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+---------- GCD: 2.3 ----------
+Food: Roast Chicken
+Wd  : 146
+Str : 4885 | 5129
+Dh  : 2212
+Crit: 1482
+Det : 2052
+Sks : 2076
+Weapon     Raid   Skill Speed      Skill Speed     
+Head       Raid   Skill Speed      Skill Speed     
+Body       CAR    Skill Speed      Skill Speed     
+Hands      Raid   Direct Hit Rate  Determination   
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       CAR    Skill Speed      Skill Speed     
+Earrings   Raid   Skill Speed      Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Direct Hit Rate  Determination   
+Ring       Raid   Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+---------- GCD: 2.29 ----------
+Food: Roast Chicken
+Wd  : 146
+Str : 4885 | 5129
+Dh  : 2151
+Crit: 1482
+Det : 2034
+Sks : 2155
+Weapon     Raid   Direct Hit Rate  Determination   
+Head       Raid   Skill Speed      Skill Speed     
+Body       CAR    Skill Speed      Skill Speed     
+Hands      Raid   Determination    Determination   
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Tomes  Determination    Skill Speed     
+Earrings   Tomes  Direct Hit Rate  Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Direct Hit Rate  Determination   
+Ring       Raid   Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+---------- GCD: 2.28 ----------
+Food: Chicken Pasta
+Wd  : 146
+Str : 4885 | 5129
+Dh  : 2044
+Crit: 1482
+Det : 2033
+Sks : 2263
+Weapon     Raid   Skill Speed      Skill Speed     
+Head       Raid   Skill Speed      Skill Speed     
+Body       CAR    Skill Speed      Skill Speed     
+Hands      Raid   Determination    Determination   
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Tomes  Determination    Skill Speed     
+Earrings   Tomes  Direct Hit Rate  Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Direct Hit Rate  Determination   
+Ring       Raid   Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
